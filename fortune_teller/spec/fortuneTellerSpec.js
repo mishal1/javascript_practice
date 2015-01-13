@@ -1,5 +1,7 @@
 describe("FortuneTeller:", function(){
 
+  var fortune;
+
   beforeEach(function(){
     fortune = new FortuneTeller
   });
