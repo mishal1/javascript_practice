@@ -2,9 +2,9 @@ var array = ['a', 'b', 'c', 'd', 'h', 'f', 'l', 'j', 'p', 'o', 'i', 'k', 'm', 'i
 
 1. use a for loop that iterates through each element and print the element
 
-2. use a for loop that iterates through each element and console.log only even elements
+2. use a for loop that iterates through each element and prints only even elements
 
-3. use a for loop that iterates through each element and console.log the element and the index
+3. use a for loop that iterates through each element and prints the element and the index
 
 4. use a for loop that iterates through each element and push the first half of the elements in 
 var firstHalf = []
