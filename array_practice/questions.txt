@@ -1,0 +1,14 @@
+var array = ['a', 'b', 'c', 'd', 'h', 'f', 'l', 'j', 'p', 'o', 'i', 'k', 'm', 'i', 'l', 'o', 'g', 's', 'x' ,'k']
+
+1. use a for loop that iterates through each element and print the element
+
+2. use a for loop that iterates through each element and console.log only even elements
+
+3. use a for loop that iterates through each element and console.log the element and the index
+
+4. use a for loop that iterates through each element and push the first half of the elements in 
+var firstHalf = []
+and the second half in 
+var secondHalf = []
+
+WHEN FINISHED: call giorgia
